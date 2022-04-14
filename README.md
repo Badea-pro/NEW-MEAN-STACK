@@ -8,6 +8,7 @@ First open the terminal
 
 Type 'cd Frontend'
 Then type 'npm install'
+Then type 'ng add @angular/material'
 then type 'ng serve' to start the app
 
 Second
